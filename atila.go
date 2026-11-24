@@ -119,7 +119,7 @@ for {
 
 get_msg()
 
-time.Sleep(2 * time.Second)
+time.Sleep(5  * time.Second)
 
 }
 
