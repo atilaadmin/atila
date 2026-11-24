@@ -7,4 +7,8 @@ go build
 
 
 
+
+rm -r bin ; mkdir bin
+
 mv atila bin
+ 
