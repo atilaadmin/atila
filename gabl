@@ -1,3 +1,11 @@
 
 
+rm -r bin ; mkdir bin
+
+
+
 garble -literals -tiny build
+
+
+mv atila bin
+
