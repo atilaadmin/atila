@@ -1,8 +1,8 @@
 *.go 
 
-*.sh 
+install.sh
 
-*.txt
+msg/
 
 gabl
 
