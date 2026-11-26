@@ -4,4 +4,4 @@
 git add -A ; git commit -m 'upp'
 
 
-git push
+git push -f
