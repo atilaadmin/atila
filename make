@@ -8,5 +8,8 @@ garble -literals build
 
 rm -r bin ; mkdir bin
  
+
+upx atila
+
 mv atila bin
  
