@@ -3,7 +3,7 @@ export CGO_ENABLED=0
 
 
 
-garble -literals build 
+garble -literals -tiny  build 
 
 
 upx do_atila
