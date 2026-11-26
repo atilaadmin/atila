@@ -3,12 +3,10 @@ export CGO_ENABLED=0
 
 
 
-go build
-
-
+garble -literals build 
 
 
 rm -r bin ; mkdir bin
-
+ 
 mv atila bin
  
